@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "f10b44c4817b110c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a2b09b91270b720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb0ccca48f9311f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Что такое Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4b7a271b1aa59ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "0237b2205073546c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4494cabcefee32e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cf61dfdc3722b7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371b75f82e7c20a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7c951ef080ec6241",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33adb53460ec44b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093c3c6dfd0c83c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Go/Что такое Go.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea0a29ba0b116225",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Go/Что такое Go.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca991f7a0ecb8831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31855d5856f68a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Go/Что такое Go.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8bb0ccca48f9311f",
+  "lastOpenFiles": [
+    "Go/Интервал мажорных версий Go.md",
+    "Go/Что такое Go.md",
+    "Go/Когда вышел Go.md",
+    "Go/Кто создал Go.md",
+    "Go/Что должен знать Junior Go.md",
+    "Go/Установка Go.md",
+    "Go/Структура каталогов Go.md",
+    "Go/Variables/Что такое константа Go.md",
+    "Go/Variables/Что такое переменная Go.md",
+    "Go/Структура программы Go.md",
+    "Go/Variables/Scopes",
+    "Go/Variables/Types",
+    "Go/Variables",
+    "Go"
+  ]
+}
