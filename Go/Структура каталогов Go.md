@@ -12,14 +12,12 @@
 </div>
 <h2 align="center">Заметка</h2>
 <center>
-	<img src="https://sun9-9.userapi.com/impg/wnf5UxKEvwzgEWWZryv3GO4br9vCy2ZiW9Cn3g/IUuiR_8I_ZU.jpg?size=374x510&quality=95&sign=70ce4c749eed3ee0207eed1b3b859141&type=album" />
+	<img src="https://psv4.userapi.com/c909518/u542439242/docs/d7/6cc0082e48b1/Go-Directory-Struct.png?extra=jMGpgPQ3ulIwsM2kFmhFHWQ2tYcNh3jn0-ETUOFhjkQ6v5fIbacB12ngHPX0t9ZV59HiNoyzeCqjNz4UxhEg3Po2iAy8cyak6HzWVadk1jkMdAAVKXI4dimMKYlJ__IRvV7N_s5kiAi49kHt8OfHpMxpqBU" />
 </center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
-    <li>
-	    <strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong>
-	</li>
+    <li><strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong></li>
   </ul>
 </div>
 <h2 align="left">Тэги</h2>

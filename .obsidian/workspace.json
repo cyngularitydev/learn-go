@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Что такое Go.md",
+                "file": "Go/Variables/Передача значений Go.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Что такое Go.md",
+                "file": "Go/Variables/Передача значений Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Что такое Go.md",
+                "file": "Go/Variables/Передача значений Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/Что такое Go.md"
+                "file": "Go/Variables/Передача значений Go.md"
               }
             }
           }
@@ -148,16 +148,27 @@
   },
   "active": "8bb0ccca48f9311f",
   "lastOpenFiles": [
-    "Go/Интервал мажорных версий Go.md",
-    "Go/Что такое Go.md",
-    "Go/Когда вышел Go.md",
-    "Go/Кто создал Go.md",
-    "Go/Что должен знать Junior Go.md",
-    "Go/Установка Go.md",
-    "Go/Структура каталогов Go.md",
+    "Go/Variables/Операторы сравнения Go.md",
+    "Go/Variables/Арифметические операторы Go.md",
+    "Go/Variables/Логические операторы Go.md",
+    "Go/Variables/Передача значений Go.md",
+    "Go/Variables/Побитовые операторы Go.md",
     "Go/Variables/Что такое константа Go.md",
     "Go/Variables/Что такое переменная Go.md",
+    "Go/Установка Go.md",
+    "Go/Что должен знать Junior Go.md",
     "Go/Структура программы Go.md",
+    "Go/Структура каталогов Go.md",
+    "Go/Интервал мажорных версий Go.md",
+    "Go/Когда вышел Go.md",
+    "Go/Кто создал Go.md",
+    "Go/Что такое Go.md",
+    "Go/Object Oriented Programming/Аналог ООП Go.md",
+    "Go/Loops",
+    "Pasted image 20240318042957.png",
+    "Go/Object Oriented Programming",
+    "Go/Variables/Битовые маски Go.md",
+    "Текстовый документ.txt",
     "Go/Variables/Scopes",
     "Go/Variables/Types",
     "Go/Variables",

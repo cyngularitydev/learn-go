@@ -84,9 +84,7 @@
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
-    <li>
-	    <strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong>
-	</li>
+    <li><strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong></li>
   </ul>
 </div>
 <h2 align="left">Тэги</h2>

@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLoop",
+      "LiDiamond",
       "TiTelescope",
       "LiType",
-      "LiVariable",
-      "SiGo"
+      "LiVariable"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +33,7 @@
   },
   "Go/Variables": "LiVariable",
   "Go/Variables/Types": "LiType",
-  "Go/Variables/Scopes": "TiTelescope"
+  "Go/Variables/Scopes": "TiTelescope",
+  "Go/Object Oriented Programming": "LiDiamond",
+  "Go/Loops": "SiLoop"
 }

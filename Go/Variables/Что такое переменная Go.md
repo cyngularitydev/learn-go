@@ -15,14 +15,18 @@
 	<strong><p>Именованная область памяти</p></strong>
 </blockquote>
 <center>
-	<img src="https://sun10-1.userapi.com/impg/1oURp64DlyzeK3yZapBgxZ8zR3XWkcLF8mV9vg/kd1MSFV_G2o.jpg?size=964x848&quality=95&sign=34736f909f35ef483f0193c2132fdda8&type=album" />
+	<img src="https://psv4.userapi.com/c909328/u542439242/docs/d10/e77f114370c5/Go-Variables.png?extra=cn77sPkoVvHUF4_wPnlmdMl4SwvOgyAOIUUfte2qLas2IZPkOHDhfZ7jOxP5FP9ddJwGnQsvC5RXVzNFcu-Fqrkpram-p5TlJlon-KJQoKF34ddsEZ8exIISz_hf7PDXhy7ThKmGDF5YyROZ2jYj6-6uOC4" />
 </center>
-<h2 align="center">Ключи</h2>
+<h2 align="right">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
-  <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
-    <li>
-	    <strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong>
-	</li>
+  <img style="border-radius: 8px;" src="https://psv4.userapi.com/c909328/u542439242/docs/d17/8e247d94533d/variable.png" width="50%" />
+  <ul style="list-style-type: none; margin: 0; padding: 0; text-align: right; flex-grow: 1;">
+    <li><strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Что такое константа Go">Что такое константа Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Арифметические операторы Go">Арифметические операторы Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Операторы сравнения Go">Операторы сравнения Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Логические операторы Go">Логические операторы Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Побитовые операторы Go">Побитовые операторы Go</a></strong></li>
   </ul>
 </div>
 <h2 align="left">Тэги</h2>

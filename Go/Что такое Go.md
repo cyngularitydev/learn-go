@@ -26,7 +26,7 @@
 </center>
 <h2 align="right">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
-  <img style="border-radius: 8px;" src="https://knowasap.com/wp-content/uploads/2020/04/golang.png" width="256" />
+  <img style="border-radius: 8px;" src="https://knowasap.com/wp-content/uploads/2020/04/golang.png" width="50%" />
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: right; flex-grow: 1;">
     <li><strong><a href="obsidian://open?file=Go/Кто создал Go">Кто создал Go</a></strong></li>
     <li><strong><a href="obsidian://open?file=Go/Когда вышел Go">Когда вышел Go</a></strong></li>
@@ -35,8 +35,8 @@
     <li><strong><a href="obsidian://open?file=Go/Установка Go">Установка Go</a></strong></li>
     <li><strong><a href="obsidian://open?file=Go/Структура программы Go">Структура программы Go</a></strong></li>
     <li><strong><a href="obsidian://open?file=Go/Структура каталогов Go">Структура каталогов Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Object Oriented Programming/Аналог ООП Go">Аналог ООП Go</a></strong></li>
     <li><strong><a href="obsidian://open?file=Go/Variables/Что такое переменная Go">Что такое переменная Go</a></strong></li>
-    <li><strong><a href="obsidian://open?file=Go/Variables/Что такое константа Go">Что такое константа Go</a></strong></li>
   </ul>
 </div>
 <h2 align="left">Тэги</h2>

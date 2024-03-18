@@ -11,14 +11,21 @@
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-<center>
-	<img src="https://psv4.userapi.com/c909228/u542439242/docs/d55/bccb817cddcb/Go-Linux-Installation.png?extra=SlC0avNEk1K4ri6uso27wFgFN1_NJsyLv1IFC5cAhPb6r1dOeV6DqOhxaJ3M56GtgPmIjNh9FOkCwuNcifouCrmt9P90-SQoIABdyAvysNoqSksZlwN7dgYoaoeGufDDnCDuEwpW5nPEjJl-42Xlxi8604U" />
-</center>
+<div align="center">
+	<ul style="list-style-type: none">
+		<li><strong><p>== — сходство</p></strong></li>
+		<li><strong><p>!= — разность</p></strong></li>
+		<li><strong><p>&gt; — больше</p></strong></li>
+		<li><strong><p>&lt; — меньше</p></strong></li>
+		<li><strong><p>&gt;= — больше или равно</p></strong></li>
+		<li><strong><p>&lt;= — меньше или равно</p></strong></li>
+	</ul>
+</div>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
-    <li><strong><a href="obsidian://open?file=Go/Что такое Go">Что такое Go</a></strong></li>
+    <li><strong><a href="obsidian://open?file=Go/Variables/Что такое переменная Go">Что такое переменная Go</a></strong></li>
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#go #google #robpike #kentompson #robertgriesemer
+#go #comparison

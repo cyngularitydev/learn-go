@@ -11,9 +11,14 @@
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-<center>
-	<img src="https://psv4.userapi.com/c236331/u542439242/docs/d6/e1bfaf0c42d9/Go-Program-Struct.png?extra=E-KUfwbuvrENA3wCfWwg40px4wWU133nj_TvsGMBxO2ex1zvWHCaq-lOa3kyCsMc-4xY6EHjro1HuInkVBv9azSVHC56zwyC088vQl5moMa7zXN90yAasC2yDSrwpOdSIQm2v95EexTsRin2TEKK4pUqU70" />
-</center>
+<div align="center">
+	<ul style="list-style-type: none">
+		<li><strong><p>шаблон — структура</p></strong></li>
+		<li><strong><p>экземпляр — new(<span style="color: #FFFF00">struct</span>) или &<span style="color: #FFFF00">struct</span>{}</p></strong></li>
+		<li><strong><p>свойство — поле</p></strong></li>
+		<li><strong><p>поведение — метод</p></strong></li>
+	</ul>
+</div>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">
@@ -21,4 +26,4 @@
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#go #package #import #func #main
+#go #oop

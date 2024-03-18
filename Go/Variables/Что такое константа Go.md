@@ -15,7 +15,7 @@
 	<strong><p>Именованный литерал</p></strong>
 </blockquote>
 <center>
-	<img src="https://sun9-46.userapi.com/impg/RWMxq7p-lVAGWlUuPvtDrSa1R1Xia5IhA2EouA/DlKuXXzPHww.jpg?size=884x480&quality=95&sign=e3200d4e406b5fedc2a2c596fc3e303f&type=album" />
+	<img src="https://psv4.userapi.com/c909518/u542439242/docs/d25/56e0c779fea7/Go-Consts.png?extra=-_1FQQMEmoYVsXAfvYZEQpZXto8qKVXM_Aef54pjtJy5DkMbA39by5DEWlLwOPrvmuS8mgI1sboZxwh1sR667LyS2PS0SMOyASWGkidg03cxqnQwrsPwnYYiD1LfD8Mk87e8JGYAQVHF5YT28MiKEewfSeE" />
 </center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
