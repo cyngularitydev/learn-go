@@ -4,81 +4,71 @@
 		<li style="display: flex; align-items: center">
 			<img
 			style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
-			src="https://i1.ytimg.com/vi/sr8u1V_nno4/maxresdefault.jpg"
-			/>
+			src="https://i1.ytimg.com/vi/sr8u1V_nno4/maxresdefault.jpg" />
 			<strong><a href="https://www.youtube.com/watch?v=sr8u1V_nno4">Что должен знать Junior Go</a></strong>
 	    </li>
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-<div align="center">
-	<ul style="list-style-type: none">
-		<li>
-			<strong><p>Алгоритмы:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>Поиск</p></strong></li>
-				<li><strong><p>Сортировка</p></strong></li>
-				<li><strong><p>Слияние</p></strong></li>
-				<li><strong><p>Пересечение</p></strong></li>
+<div style="text-align: center;">
+	<ul style="display: inline-block; text-align: left;">
+		<li><strong>Алгоритмы:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>Поиск</strong></li>
+				<li><strong>Сортировка</strong></li>
+				<li><strong>Слияние</strong></li>
+				<li><strong>Пересечение</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>Структуры данных:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>Массив</p></strong></li>
-				<li><strong><p>Связанный список</p></strong></li>
-				<li><strong><p>Граф</p></strong></li>
-				<li><strong><p>Дерево</p></strong></li>
-				<li><strong><p>Хэш-карта</p></strong></li>
-				<li><strong><p>Стек</p></strong></li>
-				<li><strong><p>Очередь</p></strong></li>
+		<li><strong>Структуры данных:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>Массив</strong></li>
+				<li><strong>Связанный список</strong></li>
+				<li><strong>Граф</strong></li>
+				<li><strong>Дерево</strong></li>
+				<li><strong>Хэш-карта</strong></li>
+				<li><strong>Стек</strong></li>
+				<li><strong>Очередь</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>Архитектура PC:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>Процесс</p></strong></li>
-				<li><strong><p>Поток</p></strong></li>
-				<li><strong><p>Виртуальная память</p></strong></li>
-				<li><strong><p>Ядро</p></strong></li>
+		<li><strong>Архитектура PC:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>Процесс</strong></li>
+				<li><strong>Поток</strong></li>
+				<li><strong>Виртуальная память</strong></li>
+				<li><strong>Ядро</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>Сеть:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>OSI, TCP/IP</p></strong></li>
-				<li><strong><p>Протоколы: HTTP</p></strong></li>
-				<li><strong><p>Проксирование</p></strong></li>
-				<li><strong><p>Балансировка</p></strong></li>
-				<li><strong><p>Кэширование</p></strong></li>
+		<li><strong>Сеть:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>OSI, TCP/IP</strong></li>
+				<li><strong>Протоколы: HTTP</strong></li>
+				<li><strong>Проксирование</strong></li>
+				<li><strong>Балансировка</strong></li>
+				<li><strong>Кэширование</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>Go:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>Основы</p></strong></li>
-				<li><strong><p>ООП</p></strong></li>
-				<li><strong><p>Горутины</p></strong></li>
-				<li><strong><p>Сборщик мусора</p></strong></li>
+		<li><strong>Go:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>Основы</strong></li>
+				<li><strong>ООП</strong></li>
+				<li><strong>Горутины</strong></li>
+				<li><strong>Сборщик мусора</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>База данных:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>РСУБД: SQL, PostgreSQL</p></strong></li>
-				<li><strong><p>Документ-ориентированные: MongoDB</p></strong></li>
+		<li><strong>База данных:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>РСУБД: SQL, PostgreSQL</strong></li>
+				<li><strong>NoSQL: MongoDB</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>Очереди сообщений:</p></strong>
-			<ul align="left" style="list-style-type: none">
-				<li><strong><p>Kafka</p></strong></li>
-				<li><strong><p>RabbitMQ</p></strong></li>
+		<li><strong>Очереди сообщений:</strong>
+			<ul style="text-align: left; padding-left: 20px;">
+				<li><strong>Apache Kafka</strong></li>
+				<li><strong>RabbitMQ</strong></li>
 			</ul>
 		</li>
-		<li>
-			<strong><p>VCS: Git</p></strong>
-		</li>
+		<li><strong>VCS</strong></li>
 	</ul>
 </div>
 <h2 align="center">Ключи</h2>

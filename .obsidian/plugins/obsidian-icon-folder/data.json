@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiLoop",
-      "LiDiamond",
-      "TiTelescope",
-      "LiType",
-      "LiVariable"
+      "TiError404",
+      "LiKeyRound",
+      "LiPlusSquare",
+      "TiTemplate",
+      "SiLoop"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,9 +31,40 @@
     "iconName": "SiGo",
     "iconColor": "#80f0ff"
   },
-  "Go/Variables": "LiVariable",
-  "Go/Variables/Types": "LiType",
-  "Go/Variables/Scopes": "TiTelescope",
-  "Go/Object Oriented Programming": "LiDiamond",
-  "Go/Loops": "SiLoop"
+  "Go/Variables": {
+    "iconName": "LiVariable",
+    "iconColor": "#ff279e"
+  },
+  "Go/Variables/Types": {
+    "iconName": "LiType",
+    "iconColor": "#d947ff"
+  },
+  "Go/Variables/Scopes": {
+    "iconName": "TiTelescope",
+    "iconColor": "#68bcff"
+  },
+  "Go/Object Oriented Programming": {
+    "iconName": "LiDiamond",
+    "iconColor": "#69ffff"
+  },
+  "Go/Loops": {
+    "iconName": "SiLoop",
+    "iconColor": "#1d8efe"
+  },
+  "Go/Idioms": {
+    "iconName": "TiTemplate",
+    "iconColor": "#00d9ff"
+  },
+  "Go/Features": {
+    "iconName": "LiPlusSquare",
+    "iconColor": "#27ff27"
+  },
+  "Go/Environments": {
+    "iconName": "LiKeyRound",
+    "iconColor": "#ffce0f"
+  },
+  "Go/Errors": {
+    "iconName": "TiError404",
+    "iconColor": "#ff4638"
+  }
 }

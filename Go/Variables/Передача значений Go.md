@@ -4,14 +4,38 @@
 		<li style="display: flex; align-items: center">
 			<img
 			style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
-			src="https://sun9-12.userapi.com/impg/AvCGOlah4o7UhSXgysq7X4NJIi72XXjksOos3Q/45XBVuWEKXE.jpg?size=467x660&quality=95&sign=8518ce7b583fb840ea3d1887485f955c&type=album"
-			/>
-			<strong><a href="https://vk.com/wall-200520393_325">Книга Джон Боднер "Go: идиомы и паттерны проектирования" (2022)</a></strong>
+			src="https://sun9-11.userapi.com/impg/Rbi7bq4zpiRLoRxDX6jjlgxa1P2jvRVvK4LctA/RhguMLjyBoQ.jpg?size=1944x2160&quality=96&sign=2ff1b91737d9eeba989b95e5662e7e6d&type=album" />
+			<strong><a href="https://vk.com/wall-167789771_1227">Книга Максим Жашкевич "Язык Go Для Начинающих" (2020)</a></strong>
 	    </li>
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
-
+<center>
+	<table style="border: #7DCFFF 2px solid; border-radius: 8px">
+		<thead>
+			<tr>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Название</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Символ</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Описание</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Зеркальность</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">По значению</td>
+				<td align="center"></td>
+				<td align="center">Копия значения</td>
+				<td align="center">❌</td>
+			</tr>
+			<tr>
+				<td align="center">По ссылке</td>
+				<td align="center">*<span style="color: #FFFF00">name</span></td>
+				<td align="center">Копия указателя</td>
+				<td align="center">✅</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
   <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center; flex-grow: 1;">

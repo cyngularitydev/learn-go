@@ -4,19 +4,19 @@
 		<li style="display: flex; align-items: center">
 			<img
 			style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
-			src="https://sun9-11.userapi.com/impg/Rbi7bq4zpiRLoRxDX6jjlgxa1P2jvRVvK4LctA/RhguMLjyBoQ.jpg?size=1944x2160&quality=96&sign=2ff1b91737d9eeba989b95e5662e7e6d&type=album"
+			src="https://sun9-10.userapi.com/impf/c840132/v840132618/2369c/RxOhUx5AZ8I.jpg?size=838x1200&quality=96&sign=5d8a28b7c219c3e3d1701d96d34bc85c&type=album"
 			/>
-			<strong><a href="https://vk.com/wall-167789771_1227">Книга Максим Жашкевич "Язык Go Для Начинающих" (2020)</a></strong>
+			<strong><a href="https://vk.com/wall-54530371_155159">Книга Алан А. А. Донован, Брайан У. Керниган "Язык программирования Go" (2016)</a></strong>
 	    </li>
 	</ul>
 </div>
 <h2 align="center">Заметка</h2>
 <div style="text-align: center;">
 	<ul style="display: inline-block; text-align: left;">
-		<li><strong>Шаблон — структура</strong></li>
-		<li><strong>Экземпляр — new(<span style="color: #FFFF00">struct</span>) или &<span style="color: #FFFF00">struct</span>{}</strong></li>
-		<li><strong>Свойство — поле</strong></li>
-		<li><strong>Поведение — метод</strong></li>
+		<li><strong>Сборщик мусора</strong></li>
+		<li><strong>Система пакетов</strong></li>
+		<li><strong>Неизменяемые UTF-8 строки</strong></li>
+		<li><strong>Лексическая область видимости</strong></li>
 	</ul>
 </div>
 <h2 align="center">Ключи</h2>
@@ -26,4 +26,4 @@
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#go #oop
+#go

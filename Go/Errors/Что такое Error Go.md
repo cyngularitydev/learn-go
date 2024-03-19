@@ -11,7 +11,25 @@
 </div>
 <h2 align="center">Заметка</h2>
 <center>
-	<img src="https://psv4.userapi.com/c236331/u542439242/docs/d6/e1bfaf0c42d9/Go-Program-Struct.png?extra=E-KUfwbuvrENA3wCfWwg40px4wWU133nj_TvsGMBxO2ex1zvWHCaq-lOa3kyCsMc-4xY6EHjro1HuInkVBv9azSVHC56zwyC088vQl5moMa7zXN90yAasC2yDSrwpOdSIQm2v95EexTsRin2TEKK4pUqU70" />
+	<table style="border: #7DCFFF 2px solid; border-radius: 8px">
+		<thead>
+			<tr>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Название</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Тип</th>
+				<th style="border: #7DCFFF 2px solid; border-radius: 8px">Начальное значение</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td align="center">Ошибка</td>
+				<td align="center">error</td>
+				<td align="center">nil</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
+<center>
+	<img src="https://psv4.userapi.com/c236331/u542439242/docs/d55/685f63fd2745/Go-Errors.png?extra=QkRF7Ml0Enz7ARzASF72lG2OFsjmjGMo9ESwnYD-Zl8HNOOmb58MmB3zTI72x1WnC1jcJ7fOtlvyN0gcIiqZY_JLuSPLfkiP4Zfb4mvrv-J0RN-NRHAA5mXxEWyyVn0UF2I-dbY_-l6do2c9K7189c7DBtw" />
 </center>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
@@ -20,4 +38,4 @@
   </ul>
 </div>
 <h2 align="left">Тэги</h2>
-#go #package #import #func #main
+#go #error

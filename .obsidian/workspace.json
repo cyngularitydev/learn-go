@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2b09b91270b720",
+        "id": "34b4dc689e152ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb0ccca48f9311f",
+            "id": "ffb4af2d6c888275",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/Variables/Передача значений Go.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/Variables/Передача значений Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/Variables/Передача значений Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Go/Variables/Передача значений Go.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,32 +138,44 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8bb0ccca48f9311f",
+  "active": "ffb4af2d6c888275",
   "lastOpenFiles": [
-    "Go/Variables/Операторы сравнения Go.md",
-    "Go/Variables/Арифметические операторы Go.md",
-    "Go/Variables/Логические операторы Go.md",
-    "Go/Variables/Передача значений Go.md",
-    "Go/Variables/Побитовые операторы Go.md",
-    "Go/Variables/Что такое константа Go.md",
-    "Go/Variables/Что такое переменная Go.md",
-    "Go/Установка Go.md",
-    "Go/Что должен знать Junior Go.md",
-    "Go/Структура программы Go.md",
-    "Go/Структура каталогов Go.md",
-    "Go/Интервал мажорных версий Go.md",
-    "Go/Когда вышел Go.md",
-    "Go/Кто создал Go.md",
     "Go/Что такое Go.md",
+    "Go/Loops/Что такое For Go.md",
+    "Go/Loops/Что такое For-Range Go.md",
+    "Go/Loops/Что такое Continue Go.md",
+    "Go/Loops/Что такое Break Go.md",
+    "Go/Сильные стороны Go.md",
+    "Go/Кто создал Go.md",
+    "Go/Когда вышел Go.md",
+    "Go/Интервал мажорных версий Go.md",
+    "Go/Variables/Что такое переменная Go.md",
+    "Go/Variables/Что такое константа Go.md",
+    "Go/Variables/Побитовые операторы Go.md",
+    "Go/Variables/Передача значений Go.md",
+    "Go/Variables/Операторы сравнения Go.md",
+    "Go/Variables/Логические операторы Go.md",
+    "Go/Variables/Арифметические операторы Go.md",
+    "Go/Environments/Что такое Go ENV.md",
+    "Go/Environments/Список GOPROXY Go.md",
+    "Go/Environments/Переменные окружения Go.md",
+    "Go/Errors/Что такое Error Go.md",
+    "Go/Features/Что отсутствует в Go.md",
+    "Go/Features/Что присутствует в Go.md",
+    "Go/Features/Что оказало влияние на Go.md",
+    "Go/Idioms/Что такое идиома Запятая-OK Go.md",
     "Go/Object Oriented Programming/Аналог ООП Go.md",
+    "Go/Что должен знать Junior Go.md",
+    "Go/Errors",
+    "Go/Environments",
+    "Go/Features",
+    "Go/Idioms",
     "Go/Loops",
     "Pasted image 20240318042957.png",
     "Go/Object Oriented Programming",
-    "Go/Variables/Битовые маски Go.md",
     "Текстовый документ.txt",
     "Go/Variables/Scopes",
     "Go/Variables/Types",
-    "Go/Variables",
-    "Go"
+    "Go/Variables"
   ]
 }

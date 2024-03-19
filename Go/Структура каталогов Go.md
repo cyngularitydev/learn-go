@@ -4,8 +4,7 @@
 		<li style="display: flex; align-items: center">
 			<img
 			style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
-			src="https://i1.ytimg.com/vi/e-D28OoWsOg/maxresdefault.jpg"
-			/>
+			src="https://i1.ytimg.com/vi/e-D28OoWsOg/maxresdefault.jpg" />
 			<strong><a href="https://www.youtube.com/watch?v=e-D28OoWsOg">Чистая архитектура проекта на Golang</a></strong>
 	    </li>
 	</ul>

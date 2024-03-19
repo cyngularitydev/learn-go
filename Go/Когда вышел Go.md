@@ -4,8 +4,7 @@
 	    <li style="display: flex; align-items: center">
 			<img
 			style="border-radius: 8px; margin-right: 8px; width: 64px; height: 64px; object-fit: cover"
-			src="https://sun9-18.userapi.com/impf/c633530/v633530343/21a1b/lq9pdmdMXm4.jpg?size=302x302&quality=96&sign=1bf4d72d96c1c4d57639ec9cf3d2ccd6&type=album"
-			/>
+			src="https://sun9-18.userapi.com/impf/c633530/v633530343/21a1b/lq9pdmdMXm4.jpg?size=302x302&quality=96&sign=1bf4d72d96c1c4d57639ec9cf3d2ccd6&type=album"	/>
 			<strong><a href="https://metanit.com/go/tutorial/1.1.php">Введение в язык Go</a></strong>
 		</li>
 	</ul>
@@ -15,13 +14,13 @@
 	<img src="https://i.ytimg.com/vi/JqnjKdxjkzE/maxresdefault.jpg" />
 </center>
 <blockquote align="center">
-	<strong><p>Анонс</p></strong>
+	<strong>Анонс</strong>
 </blockquote>
 <center>
 	<img src="http://designstacks.net/content_images/AdobePhotoshop/ART-D/tutorial578/create-impressive-new-year-2012-card-neon-text-photoshop-cs5.jpg" />
 </center>
 <blockquote align="center">
-	<strong><p>Выпуск Go 1.0</p></strong>
+	<strong>Выпуск Go 1.0</strong>
 </blockquote>
 <h2 align="center">Ключи</h2>
 <div style="display: flex; align-items: flex-start;">
